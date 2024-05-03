@@ -1,0 +1,37 @@
+{
+    "students_data": [
+        {
+            "name": "Jerwin Quijano",
+            "address": "Brgy Cotta",
+            "contact_number": "09197019990",
+            "email": "jerwin@gmail.com",
+            "Date_of_birth": "june 19, 2005",
+            "martial_status": "Single",
+            "sex": "Male",
+            "nationality": "Australia",
+            "known_languages": "English, Tagalog",
+            "Test_no": "1",
+            "exam_detial": "Passed",
+            "shs_school": "School A",
+            "GWA": "1.52",
+            "Other_skills": "programming"
+        },
+        {
+            "name": "Donnabel Narvato",
+            "address": "Brgy Ibabang talim",
+            "contact_number": "09192382",
+            "email": "donabel@gamail.com",
+            "Date_of_birth": "January 4, 2005",
+            "martial_status": "Married",
+            "sex": "Male",
+            "nationality": "Australia",
+            "known_languages": "English, Tagalog, Spanish, Japanese",
+            "Test_no": "1",
+            "exam_detial": "Passed",
+            "shs_school": "School C",
+            "GWA": "1.50",
+            "Other_skills": "Accounting"
+        }
+        
+    ]
+}
